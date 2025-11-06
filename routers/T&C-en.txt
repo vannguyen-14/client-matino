@@ -1,0 +1,142 @@
+<h1>Hero Saga - Terms and Conditions</h1>
+
+<section>
+  <h2>1. Game Description</h2>
+  <h3>About the game</h3>
+  <p>In a colorful fantasy world once filled with peace and joy, darkness has spread as the evil forces of the underworld rise to conquer the kingdom. Villages have been destroyed, and mysterious creatures roam freely. Amidst the chaos, a young but brave adventurer Hero from his Saga sets out on a heroic journey to restore peace. Armed with courage and agility, the Hero must overcome deadly traps, outsmart monstrous enemies, and reclaim stolen treasures across various enchanted lands. His ultimate quest: defeat the Dark Lord and bring light back to the world.</p>
+</section>
+
+<section>
+  <h2>2. Game Genre</h2>
+  <p>2D Side-Scrolling Platformer with Adventure elements. Designed for casual players who enjoy classic jump-and-run mechanics, Gold collection, and level-based challenges.</p>
+</section>
+
+<section>
+  <h2>3. Prizes</h2>
+
+  <h3>Weekly Prizes Plan</h3>
+  <p>Top 10 players who collect the most golds during a week have a chance to win prizes. Each week, from 00:00 on the first day to 23:59:59 on the last day, the top 10 players with the highest total points will be rewarded.</p>
+  <table style="width:100%; border-collapse:collapse;">
+    <thead>
+      <tr>
+        <th style="border:1px solid #333; padding:8px;">Rank</th>
+        <th style="border:1px solid #333; padding:8px;">Amount</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td style="border:1px solid #333; padding:8px; text-align:center;">1</td><td style="border:1px solid #333; padding:8px;">10,000 Loyalty Points</td></tr>
+      <tr><td style="border:1px solid #333; padding:8px; text-align:center;">2</td><td style="border:1px solid #333; padding:8px;">8,000 Loyalty Points</td></tr>
+      <tr><td style="border:1px solid #333; padding:8px; text-align:center;">3</td><td style="border:1px solid #333; padding:8px;">7,000 Loyalty Points</td></tr>
+      <tr><td style="border:1px solid #333; padding:8px; text-align:center;">4</td><td style="border:1px solid #333; padding:8px;">4,500 Loyalty Points</td></tr>
+      <tr><td style="border:1px solid #333; padding:8px; text-align:center;">5</td><td style="border:1px solid #333; padding:8px;">2,000 Loyalty Points</td></tr>
+      <tr><td style="border:1px solid #333; padding:8px; text-align:center;">6</td><td style="border:1px solid #333; padding:8px;">1,500 Loyalty Points</td></tr>
+      <tr><td style="border:1px solid #333; padding:8px; text-align:center;">7</td><td style="border:1px solid #333; padding:8px;">1,000 Loyalty Points</td></tr>
+      <tr><td style="border:1px solid #333; padding:8px; text-align:center;">8</td><td style="border:1px solid #333; padding:8px;">700 Loyalty Points</td></tr>
+      <tr><td style="border:1px solid #333; padding:8px; text-align:center;">9</td><td style="border:1px solid #333; padding:8px;">500 Loyalty Points</td></tr>
+      <tr><td style="border:1px solid #333; padding:8px; text-align:center;">10</td><td style="border:1px solid #333; padding:8px;">300 Loyalty Points</td></tr>
+    </tbody>
+  </table>
+
+  <h3>Monthly Prizes Plan</h3>
+  <p>There will be a monthly leaderboard. 10 winners will be randomly selected from the Top 30 highest-ranked users who <strong>hit the highest ranking scores</strong> during the month. Each monthly event will run from 00:00 on the first day to 23:59:59 on the last day. The randomly selected 10 winners will receive rewards.</p>
+  <table style="width:100%; border-collapse:collapse;">
+    <thead>
+      <tr>
+        <th style="border:1px solid #333; padding:8px;">Rank</th>
+        <th style="border:1px solid #333; padding:8px;">Amount</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr><td style="border:1px solid #333; padding:8px; text-align:center;">1</td><td style="border:1px solid #333; padding:8px;">1,000,000 MMK</td></tr>
+      <tr><td style="border:1px solid #333; padding:8px; text-align:center;">2</td><td style="border:1px solid #333; padding:8px;">500,000 MMK</td></tr>
+      <tr><td style="border:1px solid #333; padding:8px; text-align:center;">3</td><td style="border:1px solid #333; padding:8px;">300,000 MMK</td></tr>
+      <tr><td style="border:1px solid #333; padding:8px; text-align:center;">4</td><td style="border:1px solid #333; padding:8px;">200,000 MMK</td></tr>
+      <tr><td style="border:1px solid #333; padding:8px; text-align:center;">5</td><td style="border:1px solid #333; padding:8px;">100,000 MMK</td></tr>
+      <tr><td style="border:1px solid #333; padding:8px; text-align:center;">6</td><td style="border:1px solid #333; padding:8px;">50,000 MMK</td></tr>
+      <tr><td style="border:1px solid #333; padding:8px; text-align:center;">7</td><td style="border:1px solid #333; padding:8px;">40,000 MMK</td></tr>
+      <tr><td style="border:1px solid #333; padding:8px; text-align:center;">8</td><td style="border:1px solid #333; padding:8px;">30,000 MMK</td></tr>
+      <tr><td style="border:1px solid #333; padding:8px; text-align:center;">9</td><td style="border:1px solid #333; padding:8px;">20,000 MMK</td></tr>
+      <tr><td style="border:1px solid #333; padding:8px; text-align:center;">10</td><td style="border:1px solid #333; padding:8px;">10,000 MMK</td></tr>
+    </tbody>
+  </table>
+
+  <h3>How to Claim Rewards</h3>
+  <p>For Loyalty Points and Data MB prizes, Mytel system (Bonus Gate Way API) will be integrated and partner will add prizes to user directly according to rules. For Cash Rewards, it will be transferred to winner bank account which winner provided to Customer care Department after happy</p>
+
+<h3>Cash Prize Claim Rules</h3>
+<p>Cash prizes will be awarded starting from November 2025.</p>
+  <ol>
+    <li>Cash prize valid date is <strong>30 days</strong> starting from the winning date.</li>
+    <li>If we cannot contact or receive information from a winner, we will send an SMS notification to inform about the final claim date.</li>
+    <li>If the claim period is overdue, the winner will no longer be eligible to receive the prize.</li>
+  </ol>
+</section>
+
+<section>
+  <h2>4. Acceptance of Terms</h2>
+  <p>By using the Game, you confirm that you have read, understood, and accepted these Terms. If you do not agree, please do not install or play the Game.</p>
+</section>
+
+<section>
+  <h2>5. Virtual Items &amp; Currencies</h2>
+  <p>All virtual coins, items, or upgrades have no real-world value. They cannot be exchanged, sold, or transferred to other users, inside or outside the Game.</p>
+</section>
+
+<section>
+  <h2>6. User Conduct</h2>
+  <p>By playing the game, you agree not to:</p>
+  <ul>
+    <li>Harass, threaten, or abuse other players.</li>
+    <li>Use the Game for illegal or commercial activities.</li>
+    <li>Post or share inappropriate, offensive, or infringing content.</li>
+  </ul>
+  <p>Violation may lead to temporary or permanent suspension of your account.</p>
+</section>
+
+<section>
+  <h2>7. Account &amp; Data</h2>
+  <p>Some versions of the Game may allow or require you to create an account. You are responsible for maintaining your login confidentiality. We may collect limited usage data (e.g., gameplay analytics, crash reports) as described in our Privacy Policy.</p>
+</section>
+
+<section>
+  <h2>8. Updates &amp; Maintenance</h2>
+  <p>We may release patches, updates, or new features to improve gameplay. These updates may be automatically installed. We reserve the right to modify, suspend, or discontinue parts of the Game at any time.</p>
+</section>
+
+<section>
+  <h2>9. Disclaimer of Warranties</h2>
+  <p>The Game is provided "as is" and "as available." We make no warranties of any kind regarding performance, reliability, or uninterrupted service. You use the Game at your own risk.</p>
+</section>
+
+<section>
+  <h2>10. Limitation of Liability</h2>
+  <p>We shall not be liable for any direct, indirect, incidental, or consequential damages arising from your use of the Game, including data loss or device malfunction.</p>
+</section>
+
+<section>
+  <h2>11. Termination</h2>
+  <p>We may suspend or terminate your access to the Game at any time if you breach these Terms. Upon termination, your right to play and all virtual items will be forfeited without compensation.</p>
+</section>
+
+<section>
+  <h2>12. Governing Law</h2>
+  <p>These Terms shall be governed by and construed in accordance with the laws of Myanmar. Any disputes shall be subject to the exclusive jurisdiction of competent courts in that region.</p>
+</section>
+
+<section>
+  <h2>13. How to Play</h2>
+  <ul>
+    <li>Players control Martino using the on-screen joystick or arrow keys to move left or right.</li>
+    <li><strong>Jump:</strong> Tap once to jump over obstacles or gaps.</li>
+    <li><strong>Double Jump:</strong> Tap jump twice to reach higher platforms.</li>
+    <li><strong>Attack:</strong> Jump onto enemies to defeat them (no weapons needed).</li>
+    <li><strong>Collectibles:</strong> Gather Golds, power-ups, and hidden treasures scattered throughout each level.</li>
+    <li><strong>Power-Ups:</strong> Certain blocks contain mushrooms or stars that grant speed boosts, invincibility, or bonus points.</li>
+  </ul>
+  <p>The players also could use PC with movement buttons to move left or right, and enjoy as emotionally as playing of Playstation game in history.</p>
+</section>
+
+<section>
+  <h2>14. How to Unsubscribe</h2>
+  <p>To cancel your subscription, just send OFF to 609 via SMS.</p>
+</section>

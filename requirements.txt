@@ -1,0 +1,11 @@
+#requirements.txt
+fastapi[all] 
+python-jose[cryptography] 
+bcrypt 
+aiomysql 
+sqlalchemy[asyncio]
+passlib[bcrypt]
+apscheduler
+redis
+pandas
+pycryptodome>=3.20.0

@@ -1,0 +1,34 @@
+# ========== Python ==========
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.db
+venv/
+.env
+.env.*
+.DS_Store
+
+# ========== Node / React ==========
+node_modules/
+dist/
+build/
+coverage/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.vite/
+*.local
+
+# ========== Editor / System ==========
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+
+# ========== Logs & Backups ==========
+*.log
+*.bak
+*.tmp
+*.pid
